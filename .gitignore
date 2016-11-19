@@ -1,0 +1,5 @@
+out
+*.pyc
+*.gypi
+*.mk
+node
