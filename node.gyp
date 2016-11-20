@@ -108,6 +108,8 @@
             'lib/bluebird.js',
             'lib/moment.js',
             'lib/co.js',
+            'lib/convertPinyin.js',
+            'lib/betterMatch.js',
         ],
         'conditions': [
             ['node_shared=="true"', {
